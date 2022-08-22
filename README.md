@@ -1,0 +1,2 @@
+# MatrixResultGo
+Решение матрицы Golang
